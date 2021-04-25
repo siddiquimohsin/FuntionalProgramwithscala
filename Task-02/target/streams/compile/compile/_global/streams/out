@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mE:\MERL-project\Learning-journey2\Task-02\T5.scala:17:9: not found: value make[0m
+[0m[[0m[31merror[0m] [0m[0m        make=makemap[Int,Boolean](seq,func)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\MERL-project\Learning-journey2\Task-02\T5.scala:19:17: not found: value make[0m
+[0m[[0m[31merror[0m] [0m[0m        println(make)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
